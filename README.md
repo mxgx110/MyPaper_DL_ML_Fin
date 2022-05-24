@@ -18,4 +18,4 @@ the trained model outputs. Three different datasets are used to evaluate this me
 where results indicate that this framework can provide us with profitable and robust
 predictions.
 
-http://arxiv.org/abs/2205.08382
+[http://arxiv.org/abs/2205.08382](https://scholar.google.com/scholar_lookup?arxiv_id=2205.08382)
