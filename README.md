@@ -1,4 +1,4 @@
-# MyPaper_DL_ML_Fin
+# Official GitHub repository for my new paper:
 ## Compatible deep neural network framework with financial time series data, including data preprocessor, neural network model and trading strategy 
 
 #### Abstract
@@ -19,3 +19,6 @@ where results indicate that this framework can provide us with profitable and ro
 predictions.
 
 [http://arxiv.org/abs/2205.08382](https://scholar.google.com/scholar_lookup?arxiv_id=2205.08382)
+
+Feel free to contact me with any questions at the following email address:
+[muhammadmahdi0007@gmail.com](muhammadmahdi0007@gmail.com)
